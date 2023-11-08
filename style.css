@@ -3,7 +3,7 @@ body{
 }
 p{
     font-family: Arial;
-    color: darkred;
+    color:darkred;
 }
 
 li{
@@ -11,14 +11,17 @@ li{
     color: darkred;
 }
 h1{
+    font-family: Arial;
     color: darkred;
 
 }
 h2{
+    font-family: Arial;
     color: darkred;
 
 }
 h3{
+    font-family: Arial;
     color: darkred;
 
 }
