@@ -1,6 +1,6 @@
 body{
     background-image: url(abc.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size:contain
     
     
