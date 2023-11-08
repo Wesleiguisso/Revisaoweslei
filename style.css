@@ -1,7 +1,8 @@
 body{
     background-image: url(zoiao.jpg);
     background-repeat: no-repeat;
-    
+    background-size: cover;
+
 }
 p{
     font-size: xx-large;
