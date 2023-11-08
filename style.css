@@ -3,11 +3,8 @@ body{
     background-repeat: repeat;
     background-size:contain;
     border: solid 2px; color: white;
-    padding: 30px;
-    margin: 20px;
-    width: 50px;
     
-
+    
 }
 p{
     font-size: xx-large;
