@@ -1,3 +1,21 @@
 p{
-    font-family: arial;
+    font-family: Arial;
+    color: aqua;
+}
+
+li{
+    font-family: Arial;
+    color: blue;
+}
+h1{
+    color: red;
+
+}
+h2{
+    color: green;
+
+}
+h3{
+    color: yellow;
+
 }
